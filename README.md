@@ -1,6 +1,4 @@
-# Landing-Page
-
-# Landing Page Template
+# Landing-Page Template
 
 ## Overview
 This project is a **modern, responsive landing page** built using HTML and Tailwind CSS. It serves as a sleek starting point for businesses or projects looking to create a strong online presence.
